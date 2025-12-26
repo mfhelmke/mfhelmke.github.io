@@ -1,4 +1,4 @@
-# Martin Helmke – Research Website
+# Martin Helmke – Personal Website
 
 This repository contains the source files for the personal research website of  
 **Martin F. Helmke, PhD, PG**, Professor of Hydrogeology,  
