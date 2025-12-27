@@ -1,11 +1,35 @@
 ---
-title: "mfhelmke.github.io"
+title: "Martin F. Helmke, PhD, PG"
+subtitle: "Hydrogeology Professor • Professional Geologist • Adventurer"
+image: mfhelmke.jpg
+
+about:
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:mhelmke@wcupa.edu
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/martinhelmke/
+    - text: GitHub
+      icon: github
+      href: https://github.com/mfhelmke
 ---
 
-This is a Quarto website test.
+I am a professor of hydrogeology in the Department of Earth and Space Sciences at West Chester University of Pennsylvania, and a licensed Professional Geologist 30+ years of consulting experience.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My work emphasizes fractured-rock hydrogeology, contaminant fate and transport modeling, engineering geology, and applied geophysics.
 
-```{r}
-1 + 4
-```
+Extracurricular interests include Greenland-style sea kayaking, ultramarathon running, and exploring Earth with my beautiful and adventurous family.
+
+<div class="quicklinks">
+<a class="btn" href="research.qmd">Research</a>
+<a class="btn" href="publications.qmd">Publications</a>
+<a class="btn" href="teaching.qmd">Teaching</a>
+<a class="btn" href="interests.qmd">Interests</a>
+<a class="btn" href="about.qmd">About</a>
+<a class="btn" href="contact.qmd">Contact</a>
+</div>

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mfhelmke.github.io",
+    "title": "Martin F. Helmke, PhD, PG",
     "section": "",
-    "text": "This is a Quarto website test.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 4\n\n[1] 5"
+    "text": "I am a professor of hydrogeology in the Department of Earth & Space Sciences at West Chester University of Pennsylvania, and a practicing hydrogeologist with 30+ years of experience across research, teaching, and environmental projects.\nI serve as President, Helmke Hydrogeologic, LLC and Principal Hydrogeologist (Tetra Tech). My work emphasizes fractured-rock hydrogeology, aquifer testing and parameter estimation, groundwater modeling, contaminant fate and transport (including PFAS), and applied geophysics/UAS methods.\nCredentials: Pennsylvania Professional Geologist (PG #5117) • FAA Part 107 sUAS Pilot • HAZWOPER/Radiation Specialist\n\nResearch Publications Teaching Interests About Contact"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#research-focus",
+    "href": "index.html#research-focus",
+    "title": "Martin F. Helmke, PhD, PG",
+    "section": "Research focus",
+    "text": "Research focus\n\nGroundwater flow and contaminant transport\nSlug and pumping test analysis and uncertainty\nHydrostratigraphic conceptual site models\nPython-based hydrogeologic modeling tools"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Martin F. Helmke, PhD, PG",
+    "section": "Teaching",
+    "text": "Teaching\nI regularly teach undergraduate and graduate courses in hydrogeology, soils, and applied geoscience, with an emphasis on quantitative reasoning, field methods, and reproducible analysis.\n\nESS 439/539 Hydrogeology\n\nESS 490/590 Soils\n\nESS 549 Advanced Hydrogeology"
+  },
+  {
+    "objectID": "index.html#current-interests",
+    "href": "index.html#current-interests",
+    "title": "Martin F. Helmke, PhD, PG",
+    "section": "Current interests",
+    "text": "Current interests\n\nLinking field measurements to analytical and numerical models\nTeaching with Jupyter notebooks and Quarto\nOpen and reproducible geoscience workflows\n\nFor more details, see the Research, Publications, and Teaching pages."
   }
 ]
