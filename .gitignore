@@ -2,7 +2,6 @@
 /_site/
 /.quarto/
 /.quarto-cache/
-/docs/
 
 # ===== RStudio / R =====
 .Rproj.user/
@@ -17,3 +16,5 @@ __pycache__/
 # ===== OS cruft =====
 .DS_Store
 Thumbs.db
+
+**/*.quarto_ipynb
