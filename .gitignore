@@ -1,18 +1,19 @@
-# Quarto
+# ===== Quarto build output / caches =====
 /_site/
 /.quarto/
 /.quarto-cache/
+/docs/
 
-# RStudio
+# ===== RStudio / R =====
 .Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
 
-# Python / Jupyter
-__pycache__/
+# ===== Jupyter / Python =====
 .ipynb_checkpoints/
+__pycache__/
 
-# OS
+# ===== OS cruft =====
 .DS_Store
 Thumbs.db
