@@ -28,3 +28,7 @@ This repository includes:
 Generated website output (`_site/`) is intentionally not tracked.
 
 ------------------------------------------------------------------------
+
+## Publishing
+
+This site is built with Quarto and published via GitHub Pages using “Deploy from a branch”. The rendered site lives in the `docs/` folder. To update the site: 1. Render the website locally (`quarto render`) 2. Commit source files and `docs/` 3. Push to `main`.
